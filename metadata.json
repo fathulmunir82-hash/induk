@@ -1,0 +1,6 @@
+{
+  "name": "Buku Induk Digital UPTD SDN RAJASINGA 2",
+  "description": "Sistem Administrasi dan Buku Induk Siswa UPTD SDN RAJASINGA 2 - Indramayu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
